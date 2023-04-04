@@ -1,5 +1,11 @@
 # Spotify Song Recommender with Streamlit
 
+<p float="left">
+  <img src="content/application-screen1.png" width="400" />
+  <img src="content/application-screen2.png" width="400" /> 
+</p>
+
+
 This project is a Spotify song recommender built with Streamlit. Given a user-selected song, the recommender suggests a song based on its cluster.
 
 The recommender uses the k-means clustering algorithm to group songs based on their audio features. The audio features are obtained through the Spotify API.
